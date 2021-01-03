@@ -1,0 +1,39 @@
+html {scroll-behavior: smooth;}
+
+p{font-family: 'Sen', sans-serif; font-size: 18px; margin-left: 15px;}
+
+em,strong{color: dimgray}
+
+a{text-decoration: none; color: black ;}
+
+
+header{font-size: 3rem; font-weight: 600; font-family: 'Segoe UI', Tahoma, sans-serif; text-align: center; background-color: mediumseagreen;}
+
+body{background:
+    radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0,
+    radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0,
+    radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px,
+    radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px,
+    radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%),
+    radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%),
+    radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%) 50px 50px,
+    radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%) 50px 50px;
+    background-color:#63773F; background-size:100px 100px}
+
+.navbar-brand{font-size: 25px;font-weight: 500px;;}
+.nav-link{font-size: 22px}
+
+.titulo{background-color: cornflowerblue; text-align: center; margin: 30px auto; font: verdana; display: block; width: 300px; border-radius: 15px ;}
+
+#art1, #art2, #art3, #art4{margin: 40px; background-color: bisque; border: solid black 2.5px; border-radius: 25px;}
+
+#fundamentos, #relaciones, #kyus, #danes{font-size: 3rem; font-family: 'Sen'; margin-left: 10px; margin-top: 15px;margin-bottom: 5px;}
+
+#foto_chicos{height: 500px;}
+#foto_dan{height: 450px;}
+#foto_cinturones{width: 350px; margin-bottom: 40px;}
+#foto_practica, #foto_practica2, #foto_tecnica{width: 350px; margin-top: 40px; margin-bottom: 40px;}
+
+.col{margin: auto;}
+
+.descrip{font-size: 22px;}
